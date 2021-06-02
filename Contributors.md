@@ -333,6 +333,7 @@ elkhechafi zakaria
 - [Rahul Kumar Jain](https://github.com/jainrahul11)
 - [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
+- [Rehan Singh](https://github.com/Rehan6225)
 - [Eman Amassi] (https://github.com/emanNahed)
 - [Everardo Gutierrez] (https://github.com/egutierrez10)
 - [Eliza Swanson] (https://github.com/elswanny)
